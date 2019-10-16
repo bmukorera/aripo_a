@@ -1,0 +1,89 @@
+    {
+        "eventStartDate": "18 November 2019",
+    "eventEndDate": "20 November 2019",
+    "eventName": "Council Of Ministers",
+    "eventCode": "CoM",
+    "eventDayDetail": [
+        {
+            "eventday": "day1",
+            "eventDate": "day1date",
+            "eventList": [{
+                "pos": 1,
+                "start": "0800",
+                "end": "0900",
+                "title": "Registration CoM",
+                "subtitle": "",
+                "moderator": "",
+                "s1": "",
+                "s2": "",
+                "s3": "",
+                "s4": ""
+            },{
+                "pos": 2,
+                "start": "0900",
+                "end": "1000",
+                "title": "Opening Ceremony CoM",
+                "subtitle": "",
+                "moderator": "Prof Xeviar",
+                "s1": "",
+                "s2": "",
+                "s3": "",
+                "s4": ""
+            }]
+        },
+        {
+            "eventday": "day2",
+            "eventDate": "day2date",
+            "eventList": [{
+                "pos": 1,
+                "start": "0800",
+                "end": "0900",
+                "title": "day 2 start CoM",
+                "subtitle": "",
+                "moderator": "",
+                "s1": "",
+                "s2": "",
+                "s3": "",
+                "s4": ""
+            },{
+                "pos": 2,
+                "start": "0900",
+                "end": "1000",
+                "title": "Tea and Snacks CoM",
+                "subtitle": "",
+                "moderator": " ",
+                "s1": "",
+                "s2": "",
+                "s3": "",
+                "s4": ""
+            }]}
+            ,{
+                "eventday": "day3",
+                "eventDate": "day3date",
+                "eventList": [{
+                    "pos": 1,
+                    "start": "0800",
+                    "end": "0900",
+                    "title": "day  3 start  Council of Ministers",
+                    "subtitle": "",
+                    "moderator": "",
+                    "s1": "",
+                    "s2": "",
+                    "s3": "",
+                    "s4": ""
+                },{
+                    "pos": 2,
+                    "start": "0900",
+                    "end": "1000",
+                    "title": "Tea and Snacks ",
+                    "subtitle": "",
+                    "moderator": " ",
+                    "s1": "",
+                    "s2": "",
+                    "s3": "",
+                    "s4": ""
+                }]
+        }
+    ]
+}
+
